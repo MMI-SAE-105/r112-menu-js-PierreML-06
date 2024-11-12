@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Mouilleseaux Lhuillier
+- prénom : Pierre 
+- URL Netlify : https://r112-menu-js-pierreml-06.netlify.app
 
 # Travail
 
